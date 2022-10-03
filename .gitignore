@@ -1,0 +1,8 @@
+
+.env
+node_modules
+.vscode
+package-lock.json
+
+# Ignoring work in progress module
+reactor.js
